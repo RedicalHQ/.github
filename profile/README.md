@@ -1,6 +1,6 @@
-<img height="150" width="150" src="https://i.ibb.co/nLkqgmY/Thumbnail.png" />
+<img height="150" width="150" src="https://i.ibb.co/wdcRrDG/Thumbnail.png" />
 
-## ⚡️ Hey there! We're Redical.
+## 👋 Hey there! We're Redical.
 
 A decentralized, social economy to invest in content creators / influencers and their potential.  
 
