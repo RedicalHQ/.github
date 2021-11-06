@@ -1,4 +1,4 @@
-<img height="150" width="150" src="https://i.ibb.co/wdcRrDG/Thumbnail.png" />
+<img height="150" width="150" src="https://i.ibb.co/vwDnqVm/Thumbnail.png" />
 
 ## 👋 Hey there! We're Redical.
 
