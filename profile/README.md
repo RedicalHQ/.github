@@ -4,7 +4,7 @@
 
 A decentralized, social economy to invest in content creators / influencers and their potential.  
 
-Our goal is to help people achieve peak productivity with a simplified, all-in-one workflow system built for the modern digital landscape and ecosystem.
+Our goal is to enable anyone, with no diversifying bottleneck, to make passive income using social insight and skills.
 
 Check us out [**here!**](https://redical.io)
 
